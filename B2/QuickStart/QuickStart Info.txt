@@ -1,0 +1,21 @@
+Use QuickStart to access frequentlly used programs,
+such as Internet Explorer or Outlook.
+
+To activate a program in the QuickStart
+tray, just click it.
+
+To add a program to your Quickstart tray, first locate
+your B2 directory. Then drag a shortcut to your program
+or document to the Quickstart Folder in your B2 folder. Then
+restart B2.
+
+========================================================================
+============= The below text is Inaccurate and is only  ================
+=============         inclued for future use.           ================
+========================================================================
+
+To add a program to the QuickStart tray, just drag its icon to the tray.
+
+You can also add programs to your Quickstart tray by
+right clicking the tray and selecting "Open QuickStart Folder".
+Then drag the program to the folder.
