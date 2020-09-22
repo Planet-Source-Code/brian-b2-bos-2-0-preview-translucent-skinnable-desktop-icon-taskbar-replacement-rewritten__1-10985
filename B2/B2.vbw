@@ -1,0 +1,13 @@
+frmTaskbar = 47, 15, 1056, 609, , 29, 27, 832, 621, C
+modScreenData = 66, 66, 726, 660, C
+modSkinCode = 77, 10, 737, 604, C
+modGraphicAPICalls = 99, -5, 759, 589, C
+modWindowAPICalls = 62, -13, 722, 581, C
+modStartMenu = 92, 220, 880, 814, C
+frmStartMenu = 14, 6, 1089, 600, C, 61, 27, 721, 621, C
+frmInfo = 241, 242, 1103, 741, C, 220, 220, 663, 719, C
+frmDesktopMenu = 0, 0, 0, 0, C, 0, 0, 882, 443, C
+modFileAPI = 154, 154, 1034, 597, 
+frmToolTip = 198, 198, 1059, 697, , 176, 175, 1037, 675, C
+modCustomApplets = 192, 91, 1053, 590, 
+modDesktopIconPopup = 0, 0, 0, 0, C
